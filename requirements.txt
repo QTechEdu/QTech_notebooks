@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+mpmath
+scikit-learn
+ipykernel
+pandas
+
+tensorflow==2.12.*
