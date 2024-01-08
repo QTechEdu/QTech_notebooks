@@ -5,5 +5,6 @@ mpmath
 scikit-learn
 ipykernel
 pandas
+nb_mypy
 
 tensorflow==2.12.*
