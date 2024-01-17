@@ -22,5 +22,3 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-QTech_venv/
-QTech_CUDA_venv/
