@@ -5,3 +5,6 @@ scikit-learn
 ipykernel
 pandas
 nb_mypy
+plotly
+jupyterlab_mathjax2
+
