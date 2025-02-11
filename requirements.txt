@@ -9,7 +9,6 @@ plotly
 jupyterlab_mathjax2
 
 seaborn
-pylab
 scipy.special
 
 tensorflow
