@@ -12,4 +12,4 @@ seaborn
 
 tensorflow
 tensorflow.keras
-sklearn
+scikit-learn
