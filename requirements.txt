@@ -7,9 +7,5 @@ pandas
 nb_mypy
 plotly
 jupyterlab_mathjax2
-
 seaborn
-
-tensorflow
-tensorflow.keras
-scikit-learn
+tensorflow-cpu
