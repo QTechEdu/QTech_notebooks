@@ -8,7 +8,7 @@ nb_mypy
 plotly
 jupyterlab_mathjax2
 
-math
+seaborn
 pylab
 scipy.special
 
