@@ -8,3 +8,10 @@ nb_mypy
 plotly
 jupyterlab_mathjax2
 
+math
+pylab
+scipy.special
+
+tensorflow
+tensorflow.keras
+sklearn.model_selection
