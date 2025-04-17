@@ -9,3 +9,6 @@ plotly
 jupyterlab_mathjax2
 seaborn
 tensorflow-cpu
+
+
+gwyfile
