@@ -10,5 +10,12 @@ jupyterlab_mathjax2
 seaborn
 tensorflow-cpu
 
-
 gwyfile
+ipympl 
+ipywidgets
+
+qiskit==2.3.0
+qiskit-aer==0.17.2
+qiskit-nature
+qiskit_algorithms
+pyscf
