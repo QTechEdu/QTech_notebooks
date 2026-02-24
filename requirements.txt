@@ -19,3 +19,6 @@ qiskit-aer==0.17.2
 qiskit-nature
 qiskit_algorithms
 pyscf
+
+sympy
+pylatexenc
